@@ -1,7 +1,7 @@
 {
   "name": "test-monorepo-sara-project",
   "version": "1.0.0",
-  "description": "",
+  "description": "A repository to test the create-sara-project framework in a monorepo environment",
   "main": "index.js",
   "scripts": {
     "pre-commit": "npm run --prefix ./client/ pre-commit",
