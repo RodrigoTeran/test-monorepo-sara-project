@@ -25,7 +25,7 @@ const IndexPage: React.FunctionComponent = () => {
 			</p>
 			<div className="flex gap-3 items-center">
 				<Button onClick={copy} className="rounded bg-slate-200 text-neutral-800 hover:bg-slate-100">
-					secret!!!
+					A secret!!!
 				</Button>
 				<Button
 					className="rounded flex items-center gap-x-3"
